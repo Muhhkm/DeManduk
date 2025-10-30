@@ -240,22 +240,22 @@
 					<div class="row no-padding">
 						<div class="active-gallery">
 							<div class="item single-gallery">
-								<img src="{{ asset('tmplt/img/g1.jpg') }}" alt="">
+								<img src="{{ asset('tmplt/img/1.jpg') }}" alt="">
 							</div>	
 							<div class="item single-gallery">
-								<img src="{{ asset('tmplt/img/g2.jpg') }}" alt="">
+								<img src="{{ asset('tmplt/img/2.jpg') }}" alt="">
 							</div>	
 							<div class="item single-gallery">
-								<img src="{{ asset('tmplt/img/g3.jpg') }}" alt="">
+								<img src="{{ asset('tmplt/img/3.jpg') }}" alt="">
 							</div>	
 							<div class="item single-gallery">
-								<img src="{{ asset('tmplt/img/g4.jpg') }}" alt="">
+								<img src="{{ asset('tmplt/img/4.jpg') }}" alt="">
 							</div>	
 							<div class="item single-gallery">
-								<img src="{{ asset('tmplt/img/g5.jpg') }}" alt="">
+								<img src="{{ asset('tmplt/img/5.jpg') }}" alt="">
 							</div>	
 							<div class="item single-gallery">
-								<img src="{{ asset('tmplt/img/g6.jpg') }}" alt="">
+								<img src="{{ asset('tmplt/img/6.jpg') }}" alt="">
 							</div>																		
 						</div>
 					</div>
